@@ -32,6 +32,8 @@ source venv/bin/activate
 ---
 ##Abhängigkeiten installieren
 ```
+pip install "scikit-learn>=1.3.0" "nltk>=3.8.0"
+
 pip install -r requirements.txt
 ```
 Ollama Desktop App installieren
