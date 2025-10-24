@@ -62,4 +62,10 @@ Beispiel:
 hi: Hello! How can I help you?
 bye: Goodbye! See you soon!
 
+## Further information
+
+The project was developed locally and carefully structured.
+The commit history on GitHub reflects the most important development steps;
+some micro-commits have been combined for clarity.
+
 
