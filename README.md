@@ -18,7 +18,7 @@ Der Chatbot kann **statische Antworten aus `chatbot.txt`** geben oder auf andere
 
 1. **Repository klonen**
 ```bash
-git clone https://github.com/otmanedyaf/Mini-GPT-Chatbot.git
+git clone https://github.com/otmanedd/Mini-GPT-Chatbot.git
 cd Mini-GPT-Chatbot
 ```
 ---
@@ -72,4 +72,10 @@ The project was developed locally and carefully structured.
 The commit history on GitHub reflects the most important development steps;
 some micro-commits have been combined for clarity.
 
+## license
+MIT License
+
+Copyright (c) 2025 Otmane Dyaf
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute this software, without warranty, with the above copyright notice included.
 
