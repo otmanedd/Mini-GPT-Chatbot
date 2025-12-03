@@ -54,7 +54,7 @@ Chat beenden
 Tippe exit oder quit.
 ---
 ## Screenshot
-![Chatbot Beispiel](Screenshot-Mini-GPT-Chatbot)
+![Chatbot Beispiel](Screenshot-Mini-GPT-Chatbot.png)
 
 
 Hinweise
