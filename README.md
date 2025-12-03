@@ -53,6 +53,10 @@ Beispiel-Schlüsselwörter in chatbot.txt (falls vorhanden) werden zuerst verwen
 Chat beenden
 Tippe exit oder quit.
 ---
+## Screenshot
+![Chatbot Beispiel](Screenshot-Mini-GPT-Chatbot)
+
+
 Hinweise
 Läuft vollständig offline über Ollama
 Erweiterbar mit eigenen Intents oder Logik
